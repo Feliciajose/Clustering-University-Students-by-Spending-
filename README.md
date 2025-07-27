@@ -114,7 +114,7 @@ A synthetic dataset was used representing student spending across various catego
    ```bash
    git clone https://github.com/your-username/student-spending-clustering.git
    cd student-spending-clustering
-````
+
 
 2. Install dependencies:
 
